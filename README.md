@@ -1,6 +1,6 @@
 # 🏹 ClashRoyale Nesne Tespiti - YOLOv8n
 
-Bu proje, **Clash Royale** oyununa özel olarak **YOLOv8n** mimarisi ile eğitilmiş, **19 sınıftan oluşan** bir nesne tespiti modelini içermektedir. Proje kapsamında ekran görüntüsünden canlı olarak nesneleri tespit eden bir sistem geliştirilmiş ve tüm süreç video olarak kaydedilmiştir. Proje gelişime son derece açıktır dilerseniz bu projeye daha fazla sınıf ve daha fazla veri ekleyebilirsiniz. Veri setine buradan ulaşabilirsiniz https://app.roboflow.com/valaska/detection-of-clash-royale-units-drt16-bbfgh/3
+Bu proje, **Clash Royale** oyununa özel olarak **YOLOv8n** mimarisi ile eğitilmiş, **19 sınıftan oluşan** bir nesne tespiti modelini içermektedir. Proje kapsamında ekran görüntüsünden canlı olarak nesneleri tespit eden bir sistem geliştirilmiş ve tüm süreç video olarak kaydedilmiştir. Proje gelişime son derece açıktır. Dilerseniz bu projeye daha fazla sınıf ve daha fazla veri ekleyebilirsiniz. Veri setine buradan ulaşabilirsiniz. https://app.roboflow.com/valaska/detection-of-clash-royale-units-drt16-bbfgh/3
 
 ## 🧠 Model Hakkında
 
